@@ -1,0 +1,32 @@
+h1{
+    background-color: red;
+    color: whitesmoke;
+    font-size: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+*{
+    text-align: center;
+}
+a{
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(0,0,0);
+}
+h2{
+    font-size: 42px;
+    background-color: rgb(17, 91, 139);
+    color: whitesmoke;
+    text-decoration: underline;
+}
+li a{
+    font-style: normal;
+    color: grey;
+}
+p{
+    font-size: 27px;
+}
+ol{
+    font-family: serif;
+    color: rgb(4, 48, 11);
+}
