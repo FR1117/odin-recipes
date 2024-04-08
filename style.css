@@ -4,9 +4,11 @@ h1{
     font-size: 72px;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline;
-}
+    padding: 20px 10px;
+    margin: 20px 400px;
+    }
 *{
-    text-align: center;
+    text-align: center;    
 }
 a{
     font-size: 30px;
@@ -18,15 +20,25 @@ h2{
     background-color: rgb(17, 91, 139);
     color: whitesmoke;
     text-decoration: underline;
+    margin: 20px 400px;
 }
 li a{
     font-style: normal;
     color: grey;
-}
+    }
 p{
     font-size: 27px;
+    margin: auto 400px;
 }
 ol{
     font-family: serif;
     color: rgb(4, 48, 11);
+    margin: auto 400px;
+}
+ul{
+    margin: auto 400px;
+}
+img{
+    max-height: 400px;
+    max-width: 400px;
 }
